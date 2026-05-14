@@ -1,4 +1,4 @@
-# Projet04-Collectez-des-donn-es-en-respectant-les-normes-RGPD
+# Projet04-Collectez-des-donnees-en-respectant-les-normes-RGPD
 ## 🎯 Contexte
 Mission pour une entreprise souhaitant traiter ses données dans le respect des bonnes pratiques de confidentialité définies en interne et par la réglementation RGPD.
 
